@@ -3,7 +3,7 @@
 - [Truck Developer Docs](index.md)
 - [Truck Base: Geometry Foundations](truck-base.md)
 - [Truck Geotrait](truck-geotrait.md)
-- [truck-geometry Developer Guide](truck-geometry.md)
+- [Truck Geometry](truck-geometry.md)
 - [Truck Topology](truck-topology.md)
 - [Truck Modeling](truck-modeling.md)
 - [Truck Shapeops](truck-shapeops.md)
