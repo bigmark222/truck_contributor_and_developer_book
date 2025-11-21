@@ -1,4 +1,4 @@
-# Truck Contributor and Developer Book
+# [Truck Contributor and Developer Book](https://bigmark222.github.io/truck_contributor_and_developer_book/)
 
 This repo is now structured as an [mdBook](https://github.com/rust-lang/mdBook). The source chapters live under `src/` and can be built or served locally.
 
