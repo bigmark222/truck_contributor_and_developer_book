@@ -1,0 +1,12 @@
+[book]
+title = "Truck Contributor and Developer Book"
+authors = ["Truck maintainers"]
+language = "en"
+src = "src"
+
+[build]
+build-dir = "book"
+
+[output.html]
+default-theme = "light"
+preferred-dark-theme = "rust"
